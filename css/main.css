@@ -1,0 +1,24 @@
+.bg-red{
+    background-color: rgb(238,90,90);
+}
+
+.font-white{
+    color: #ffffff;
+}
+
+.red-button{
+    background-color: rgb(238,90,90);
+    border: 1px solid rgb(233,30,39);
+    color: #ffffff;
+}
+.red-button:hover{
+    background-color: rgb(43,43,43);
+    border: 1px solid rgb(43,43,43);
+    color: #ffffff;
+}
+#head-title{
+    margin: 60px auto;
+}
+#head-button{
+    margin-bottom: 50px;
+}

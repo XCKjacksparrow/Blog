@@ -83,3 +83,26 @@ nav{
 .content-right button{
     margin-bottom: 10px;
 }
+
+
+/********************* footer **********************************/
+
+footer>.others{
+    background: rgb(24, 24, 24);
+}
+
+footer>.others h3{
+    margin-top: 20px;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+footer>.others p{
+    color: rgb(131, 131, 131);
+}
+
+footer>.others a{
+    margin-top: 10px;
+    width: 136px;
+    height: 44px; 
+}

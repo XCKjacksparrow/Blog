@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(230,230,230);
+}
+
 .bg-red{
     background-color: rgb(238,90,90);
 }
@@ -21,4 +25,61 @@
 }
 #head-button{
     margin-bottom: 50px;
+}
+nav{
+    background-color: #ffffff;
+}
+.head-nav>li:first-child{
+    margin-left: 10px;
+}
+.head-nav{
+    margin: 0 auto;
+}
+.head-nav>li{
+    margin-left: 20px;
+}
+.head-nav>li>a{
+    font-weight: 600;
+}
+.head-nav>li>a:hover{
+    color: rgb(233,30,39) !important;
+}
+
+/******************* content ******************************/
+.content-blcok{
+    background-color: #ffffff;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.content-blcok h1{
+    padding: 10px 0;
+}
+.content-blcok>img{
+    display: block;
+    margin: 15px auto;
+}
+.content-blcok>p{
+    font-size: 18px;
+    margin: 0 20px;
+}
+.content-blcok>button{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.content-right{
+    /* position: fixed; */
+    margin-top: 20px;
+    background: #ffffff;
+    padding-left: 15px;
+}
+.content-right h4{
+    padding-top: 10px;
+}
+.content-right p{
+    padding: 10px 0;
+    margin-bottom: 0;
+}
+.content-right button{
+    margin-bottom: 10px;
 }
